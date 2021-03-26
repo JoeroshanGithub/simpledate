@@ -1,0 +1,7 @@
+pyproject.toml
+setup.cfg
+src/simpledate/__init__.py
+src/simpledate.egg-info/PKG-INFO
+src/simpledate.egg-info/SOURCES.txt
+src/simpledate.egg-info/dependency_links.txt
+src/simpledate.egg-info/top_level.txt

@@ -1,0 +1,31 @@
+Metadata-Version: 2.1
+Name: simpledate
+Version: 0.0.1
+Summary: simplifier module for common datetime use cases
+Home-page: https://github.com/JoeroshanGithub/simpledate.git
+Author: Roshan Joseph
+Author-email: joeroshan@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/JoeroshanGithub/simpledate.git/issues
+Description: # simpledate
+        
+        Author: Roshan Joe
+        
+        Combine commonly used functionality of today and now.
+        Also added an integer add or subtract to the date ,
+        to mimic sql getdate() + num
+        
+        
+        Usage: 
+         import simpledate
+        
+         dt=simpledate.now()
+         print(dt-15)
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
