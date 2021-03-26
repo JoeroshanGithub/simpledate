@@ -7,9 +7,10 @@ Also added an integer add or subtract to the date ,
 to mimic sql getdate() + num
 
 
-Usage: 
+## Usage:
+```python
  import simpledate
 
  dt=simpledate.now()
  print(dt-15)
-
+```
